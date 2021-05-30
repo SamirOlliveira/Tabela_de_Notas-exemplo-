@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#RODE ELE DE PREFERÊNCIA NO JUPYTER NOTEBOOK
 # In[2]:
-def traco():
+def traco():ddd
     print('='*30)
 
 
